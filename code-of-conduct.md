@@ -113,6 +113,5 @@ community.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][https://www.contributor-covenant.org/version/2/0/code_of_conduct/],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org),
+version 2.1, available at [here](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).

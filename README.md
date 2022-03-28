@@ -1,26 +1,45 @@
-# ML-Enablement-Handson
+# SageMaker Studio Lab Community
 
-[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/ML-Enablement-Handson/blob/main/notebooks/00_environment_setup.ipynb)
-[![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
+本リポジトリでは、Amazon SageMaker Studio Labで学べる教材を紹介しています。教材の追加はPull Requestより受け付けておりますので、ガイドラインをご一読の上、こちらよりお送りください。
 
-機械学習モデルの開発が、ビジネス価値につながるように進めるためのプロセスを学ぶためのハンズオン資料です。
+## Studio Lab
 
-## Table of Contents
+* [GitHubリポジトリ](https://github.com/aws/studio-lab-examples)
+* [Amazon SageMaker Studio Lab入門](https://atmarkit.itmedia.co.jp/ait/series/27243/) [@IT様](https://atmarkit.itmedia.co.jp/))
 
-1. [はじめに](docs/introduction.md)
-2. [Environmental Setup](notebooks/00_environment_setup.ipynb)
-3. Machine Learning Model Development Hands on
-    1. [Business Understanding](notebooks/01_business_understanding.ipynb)
-    2. [Analyze](notebooks/02_analyze.ipynb)
-    3. [Prepare](notebooks/03_prepare.ipynb)
-    4. [Preprocess](notebooks/04_preprocess.ipynb)
-    5. [Train](notebooks/05_train.ipynb)
-    6. [Test](notebooks/06_test.ipynb)
-4. [おわりに](docs/ending.md)
 
-## How to Contribute
 
-不具合の報告はIssue、質問はDiscuttion、修正はPull Requestで受け付けています。  
-詳細はContribution Guidelineをご参照ください。
+## 教材
 
-[Contribution Guideline](hcontributing.md)
+### 機械学習
+
+* [機械学習帳](https://chokkan.github.io/mlnote/index.html)
+
+### 画像処理
+
+* (Comming soon!)
+
+### 自然言語処理
+
+* [BERTによる自然言語処理入門: Transformersを使った実践プログラミング](https://github.com/stockmarkteam/bert-book)
+* [Natural Language Processing with Transformers](https://github.com/manuelyhvh/nlp-with-transformers)
+* [Hugging Face Quick tour](https://huggingface.co/docs/transformers/quicktour)
+
+### 強化学習
+
+* [ゼロから作るDeep Learning ❹ 強化学習編](https://github.com/oreilly-japan/deep-learning-from-scratch-4)
+
+### 採用事例
+
+* [4840-1054: Media Computing in Practice (Summer 2022)](https://media-comp.github.io/2022/)
+
+### ハンズオン
+
+* [ML Enablement Handson](https://github.com/aws-samples/aws-ml-enablement-handson)
+
+
+記事検索
+
+* [Qiita](https://qiita.com/tags/sagemakerstudiolab)
+* [Zenn](https://zenn.dev/topics/sagemaker)
+* [Twitter](https://twitter.com/search?q=lang%3Aja%20SageMaker%20Studio%20Lab&src=typed_query&f=live)
