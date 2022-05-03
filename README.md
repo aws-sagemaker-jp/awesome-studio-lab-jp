@@ -81,3 +81,7 @@ Studio Labを採用頂いている授業や事例を紹介します。
 * [Qiita](https://qiita.com/tags/sagemakerstudiolab)
 * [Zenn](https://zenn.dev/topics/sagemaker)
 * [Twitter](https://twitter.com/search?q=lang%3Aja%20SageMaker%20Studio%20Lab&src=typed_query&f=live)
+
+## リンク
+
+* [aws/studio-lab-examples](https://github.com/aws/studio-lab-examples)
