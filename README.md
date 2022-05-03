@@ -4,9 +4,9 @@
 
 ## Studio Lab
 
-* [GitHubリポジトリ](https://github.com/aws/studio-lab-examples)
+* [利用方法](./README_usage.md)
+* [公式GitHubリポジトリ](https://github.com/aws/studio-lab-examples)
 * [Amazon SageMaker Studio Lab入門](https://atmarkit.itmedia.co.jp/ait/series/27243/) [@IT様](https://atmarkit.itmedia.co.jp/))
-
 
 
 ## 教材
