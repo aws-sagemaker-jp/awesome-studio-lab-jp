@@ -10,9 +10,7 @@
 
 Studio Labはメールアドレスのみでアカウントを登録でき、無料で利用することができます。
 
-<p align="center">
-  <img src="./images/spec.png" width="300px">
-</p>
+![spec.png](./images/spec.png)
 
 アカウントの申し込み方法、利用方法は[Amazon SageMaker Studio Lab の使い方](./README_usage.md)を参照してください。
 
@@ -55,21 +53,19 @@ Open in Studio Labボタンから学べる教材をカテゴリごとに紹介�
 
 Studio Labは本格的な機械学習アプリケーションを開発するためのSageMakerと統合されており、機械学習の学びから本番環境で稼働させるための開発までシームレスに学ぶことができます。
 
-<p align="center">
-  <img src="./images/studio_lab_to_sagemaker.png" width="400px">
-</p>
+![studio_lab_to_sagemaker.png](./images/studio_lab_to_sagemaker.png)
 
 本セクションでは活用を検討する段階に入ったときに参照する教材を紹介します。
 
-### MLプロダクト開発概要
+### 機械学習モデル開発基礎
 
-Studio Labを使用し、機械学習を利用したプロダクト開発の流れを学習します。
+プロダクト開発メンバーの一員として知っておくべき基礎的な知識を学ぶための教材を紹介します。
 
 * [ML Enablement Handson](https://github.com/aws-samples/aws-ml-enablement-handson)
 
-### MLプロダクト開発実践
+### 機械学習モデル開発実践
 
-SageMakerを使用し、分散学習やMLOpsの構築など本番稼働に欠かせない機械学習モデルの構築技術を学びます。
+分散学習やMLOpsの構築など、本番稼働に欠かせない機械学習モデルの構築技術を学ぶための教材を紹介します。
 
 * (Coming Soon)
 
