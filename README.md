@@ -23,6 +23,7 @@ Studio LabはJupyterLabと同じように利用でき、Jupyter Notebookで作�
 ⑥のカーネルの登録は次のコマンドで行います。このコマンドを実行すると、Notebookを開いたとき右上のボタンからのKernelが選択できるようになります。
 
 ```
+conda activate 環境名
 conda install ipython ipykernel
 ipython kernel install --user --name 環境名
 ```
