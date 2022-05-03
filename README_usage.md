@@ -40,19 +40,6 @@ Studio Lab では JupyterLab のインターフェイスを拡張した UI が�
 
 ![SageMaker Studio UI](https://docs.aws.amazon.com/sagemaker/latest/dg/images/studio-lab-ui.png)
 
-## Open in Studio Labボタン
-
-Open in Studio Labのボタンが設置されているリポジトリでは、ボタンを押すことでリポジトリのファイルをStudio Labで開くことができます。
-
-![install_flow.PNG](./images/install_flow.PNG)
-
-⑥のカーネルの登録は次のコマンドで行います。このコマンドを実行すると、Notebookを開いたとき右上のボタンからのKernelが選択できるようになります。作成したKernelを選択していないとライブラリが足りないなどのメッセージが出るので注意してください。
-
-```
-conda install ipython ipykernel
-ipython kernel install --user --name 環境名
-```
-
 ## 外部ストレージ (Amazon S3) や Amazon SageMaker Studio の利用
 Studio Lab の project に割り当てられた 15 GB のストレージを超えて利用したい場合は、[Amazon S3 に接続](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-lab-use-external.html#studio-lab-use-external-s3)するか、[Amazon SageMaker Studio への移行](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-lab-use-migrate.html) を検討してください。
 
