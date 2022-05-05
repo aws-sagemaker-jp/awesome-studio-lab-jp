@@ -17,7 +17,7 @@ Studio Labはメールアドレスのみでアカウントを登録でき、無�
 <p align="center">
     <a 
      style="background-color:#983eff;border-radius:6px;border:1px solid #c584f3;color:#ffffff;padding:6px 24px;text-decoration:none;"
-     href="location.href='https://bit.ly/3kIjuZL'"
+     href="https://bit.ly/3kIjuZL"
     >アカウント作成フォーム
     </a>
 </p>
