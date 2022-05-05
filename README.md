@@ -12,7 +12,17 @@ Studio Labはメールアドレスのみでアカウントを登録でき、無�
 
 ![spec.png](./images/spec.png)
 
-アカウントの申し込み方法、利用方法は[Amazon SageMaker Studio Lab の使い方](./README_usage.md)を参照してください。
+アカウントの申し込みは次のフォームから行えます。
+
+<p align="center">
+    <button 
+     style="background-color:#983eff;border-radius:6px;border:1px solid #c584f3;color:#ffffff;padding:6px 24px;"
+     onclick="location.href='https://bit.ly/3kIjuZL'"
+    >アカウント作成フォーム
+    </button>
+</p>
+
+利用方法は[Amazon SageMaker Studio Lab の使い方](./README_usage.md)を参照してください。
 
 ## 機械学習を学ぶ教材
 
