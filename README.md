@@ -4,7 +4,7 @@
   <img src="./images/what_is_studio_lab.png" width="300px">
 </p>
 
-本リポジトリでは、Amazon SageMaker Studio Labで学べる教材を紹介しています。教材の追加はPull Requestより受け付けておりますので、ガイドラインをご一読の上、[Issues](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp/issues)/[Pull Requests](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp/pulls)よりお送りください。
+本リポジトリでは、Amazon SageMaker Studio Labで学べる教材を紹介しています。教材の追加はPull Requestより受け付けておりますので、ガイドラインをご一読の上、[Issues](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp/issues)/[Pull Requests](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp/pulls)よりお送りください。Open in Studio Labボタンの設置方法は["Open in Studio Lab ボタンの設置方法"](./README_button.md)をご参照ください。
 
 ## Amazon SageMaker Studio Labの使い方
 
@@ -14,13 +14,7 @@ Studio Labはメールアドレスのみでアカウントを登録でき、無�
 
 アカウントの申し込みは次のフォームから行えます。
 
-<p align="center">
-    <a 
-     style="background-color:#983eff;border-radius:6px;border:1px solid #c584f3;color:#ffffff;padding:6px 24px;text-decoration:none;"
-     href="https://bit.ly/3kIjuZL"
-    >アカウント作成フォーム
-    </a>
-</p>
+**[アカウント作成フォーム](https://bit.ly/3kIjuZL)**
 
 利用方法は[Amazon SageMaker Studio Lab の使い方](./README_usage.md)を参照してください。
 
