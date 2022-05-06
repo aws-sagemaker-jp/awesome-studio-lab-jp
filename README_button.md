@@ -44,6 +44,8 @@ GitHubでJupyter Notebookを開いたときのURLをコピーします。次の�
 
 公開する時AWSアカウントへアクセスするためのCredentialなど機微な情報が含まれていないか注意してください。
 
+ボタンを設置したら、ぜひ[Issues](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp/issues)/[Pull Requests](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp/pulls)からご連絡ください！本リポジトリに掲載させていただきます。
+
 ## "Open in Studio Lab"ボタンを押すとどうなるのか?
 
 ボタンを押すと次のようなプレビュー画面が開きます。**プレビューを開くのにStudio LabのアカウントもAWSアカウントも必要ありません**。プレビューで開いた画面を自分のStudio Labアカウントにコピーしてくるのにアカウントが必要です。コピーしてくる方法は["機械学習を学ぶ教材"をご参照ください](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp#%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%82%92%E5%AD%A6%E3%81%B6%E6%95%99%E6%9D%90)。なお、リポジトリがプライベートである場合はもちろんプレビューを開くのに認証が必要になります。
