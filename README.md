@@ -40,7 +40,8 @@ Open in Studio Labボタンから学べる教材をカテゴリごとに紹介�
 
 ### 画像処理
 
-* (Comming soon!)
+* [PRML](https://github.com/ctgk/PRML)
+  * パターン認識と機械学習本の実装を行っているリポジトリです。
 
 ### 自然言語処理
 
