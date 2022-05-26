@@ -24,7 +24,7 @@ Studio LabはJupyterLabと同じように利用でき、Jupyter Notebookで作�
 
 ![install_flow.PNG](./images/install_flow.PNG)
 
-⑥のカーネルの登録は次のコマンドで行います。このコマンドを実行すると、Notebookを開いたとき右上のボタンからのKernelが選択できるようになります。
+⑤以降は、Notebookにカーネルが表示されない場合に必要です。⑥のカーネルの登録は次のコマンドで行います。このコマンドを実行すると、Notebookを開いたとき右上のボタンからのKernelが選択できるようになります。
 
 ```
 conda activate 環境名
@@ -37,6 +37,13 @@ Open in Studio Labボタンから学べる教材をカテゴリごとに紹介�
 ### 機械学習
 
 * [機械学習帳](https://chokkan.github.io/mlnote/index.html)
+   * 東京工業大学 情報理工学院で使用されている機械学習の教材。教材内容の解説と確認問題の実装を[mlnote-note](https://github.com/icoxfog417/mlnote-note)で公開しています。
+* [Machine Learning University](https://aws.amazon.com/jp/machine-learning/mlu/)
+   * Amazonが社内の機械学習教育で使用している教材。
+   * [画像](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv)
+   * [自然言語処理](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
+   * [テーブルデータ](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab)
+   * [決定木](https://github.com/aws-samples/aws-machine-learning-university-dte)
 
 ### 画像処理
 
