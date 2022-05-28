@@ -64,6 +64,10 @@ Amazonが社内の機械学習教育で使用している教材。自然言語�
 
 * [ゼロから作るDeep Learning ❹ 強化学習編](https://github.com/oreilly-japan/deep-learning-from-scratch-4)
 
+### MLOps
+
+* [入門 機械学習パイプライン](https://github.com/oreilly-japan/building-ml-pipelines-ja)
+
 ## 機械学習を活用する教材
 
 機械学習を学ぶ段階から活用する段階になると、機械学習以外の知識も必要になります。アプリケーション開発のプロセスや本番環境で要求される非機能要件を満たすための設計方法などです。
