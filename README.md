@@ -112,3 +112,5 @@ Studio Labを採用頂いている授業や事例を紹介します。
 ## リンク
 
 * [aws/studio-lab-examples](https://github.com/aws/studio-lab-examples)
+
+※本リポジトリのメンテナンスを行っているメンバーはAWSに所属していますが、コミュニティ活動の一環として行っておりAWSの事業とかかわりはありません。
