@@ -52,6 +52,11 @@ Amazonが社内の機械学習教育で使用している教材。自然言語�
 
 * [入門 機械学習パイプライン](https://github.com/oreilly-japan/building-ml-pipelines-ja)
 
+### 開発
+
+* [データサイエンティストのための Git 入門](https://aws.amazon.com/jp/builders-flash/202207/git-introduction-for-data-schientist/?awsf.filter-name=*all)
+
+
 ## 機械学習を活用する教材
 
 機械学習を学ぶ段階から活用する段階になると、機械学習以外の知識も必要になります。アプリケーション開発のプロセスや本番環境で要求される非機能要件を満たすための設計方法などです。
