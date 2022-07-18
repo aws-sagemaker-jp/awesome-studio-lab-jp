@@ -4,35 +4,13 @@
   <img src="./images/what_is_studio_lab.png" width="300px">
 </p>
 
-本リポジトリでは、Amazon SageMaker Studio Labで学べる教材を紹介しています。教材の追加はPull Requestより受け付けておりますので、ガイドラインをご一読の上、[Issues](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp/issues)/[Pull Requests](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp/pulls)よりお送りください。Open in Studio Labボタンの設置方法は["Open in Studio Lab ボタンの設置方法"](./README_button.md)をご参照ください。
+Amazon SageMaker Studio Labは、メールアドレスのみ・無料でJupyterLab環境が使えるサービスです。[Amazon SageMaker Studio Lab の使い方](./README_usage.md)にStudio Labのアカウント登録方法や利用方法をまとめています。
 
-## Amazon SageMaker Studio Labの使い方
-
-Studio Labはメールアドレスのみでアカウントを登録でき、無料で利用することができます。
-
-![spec.png](./images/spec.png)
-
-アカウントの申し込みは次のフォームから行えます。
-
-**[アカウント作成フォーム](https://bit.ly/3kIjuZL)**
-
-利用方法は[Amazon SageMaker Studio Lab の使い方](./README_usage.md)を参照してください。
+本リポジトリでは、Amazon SageMaker Studio Labを使用しMLの基礎から実践まで学んでいくための教材を紹介しています。教材の追加はPull Requestより受け付けておりますので、ガイドラインをご一読の上、[Issues](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp/issues)/[Pull Requests](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp/pulls)よりお送りください。Open in Studio Labボタンの設置方法は["Open in Studio Lab ボタンの設置方法"](./README_button.md)をご参照ください。
 
 ## 機械学習を学ぶ教材
 
-Studio LabはJupyterLabと同じように利用でき、Jupyter Notebookで作成されたインタラクティブな機械学習の教材を実行することができます。特に、「Open in Studio Lab」のボタンがあるリポジトリは、ボタンを押すことで簡単にStudio Labで開くことができます。
-
-![install_flow.PNG](./images/install_flow.PNG)
-
-⑤以降は、Notebookにカーネルが表示されない場合に必要です。⑥のカーネルの登録は次のコマンドで行います。このコマンドを実行すると、Notebookを開いたとき右上のボタンからのKernelが選択できるようになります。
-
-```
-conda activate 環境名
-conda install ipython ipykernel
-ipython kernel install --user --name 環境名
-```
-
-Open in Studio Labボタンから学べる教材をカテゴリごとに紹介します。
+JupyterLabで動かせる教材はStudio Labで動かせますが、特に「Open in Studio Lab」のボタンがあるリポジトリは、ボタンを押すことで簡単にStudio Labで開くことができます。以下では「Open in Studio Lab」ボタンを設置いただいている教材を紹介します。
 
 ### Python
 
