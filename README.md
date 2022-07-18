@@ -24,6 +24,10 @@ JupyterLabで動かせる教材はStudio Labで動かせますが、特に「Ope
 
 Python早見帳と同じく、東京工業大学 情報理工学院で使用されている機械学習の教材です。教材内容の解説と確認問題の実装を[mlnote-note](https://github.com/icoxfog417/mlnote-note)で公開しています。
 
+#### [ゼロからはじめるデータサイエンス入門（講談社）](https://github.com/taroyabuki/fromzero)
+
+プログラミングの基本、統計入門、前処理、機械学習などを、R・Python対訳・対照で学ぶ書籍です。書籍に掲載されたコードのほかに、[Amazon SageMaker Studio Labのための仮想環境構築法](https://github.com/taroyabuki/fromzero/tree/main/addendum/sagemaker)もサポートサイトで公開されています。GPUを使った深層学習もAmazon SageMaker Studio Labで動作確認済みです。
+
 #### [Machine Learning University](https://aws.amazon.com/jp/machine-learning/mlu/)
 
 Amazonが社内の機械学習教育で使用している教材。自然言語処理、テーブルデータ、画像、決定木の4コースで、それぞれApplied Scientistらによる解説動画、スライド、Notebookが提供されてます。
@@ -51,6 +55,11 @@ Amazonが社内の機械学習教育で使用している教材。自然言語�
 ### MLOps
 
 * [入門 機械学習パイプライン](https://github.com/oreilly-japan/building-ml-pipelines-ja)
+
+### 開発
+
+* [データサイエンティストのための Git 入門](https://aws.amazon.com/jp/builders-flash/202207/git-introduction-for-data-schientist/?awsf.filter-name=*all)
+
 
 ## 機械学習を活用する教材
 
