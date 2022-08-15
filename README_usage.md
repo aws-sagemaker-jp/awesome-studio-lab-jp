@@ -153,4 +153,6 @@ Studio Labで用意されているCPUやGPU、ストレージが足りなくな�
 ## リファレンス
 
 * [公式ドキュメント](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-lab.html)
-* [FAQ](https://studiolab.sagemaker.aws/faq)
+* [公式FAQ](https://studiolab.sagemaker.aws/faq)
+* [Studio Lab日本コミュニティQA](https://github.com/aws-sagemaker-jp/awesome-studio-lab-jp/discussions)
+   * 使い方に関する質問があればこちらのDiscussionに投稿をお願いします！
