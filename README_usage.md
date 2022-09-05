@@ -10,6 +10,10 @@
 
 **[アカウント作成フォーム](https://bit.ly/3kIjuZL)**
 
+リファラルコードをお持ちの場合は、アカウント作成フォームで忘れずに入力ください。
+
+![referral_code.PNG](./images/referral_code.PNG)
+
 アカウントを申し込むと`no-reply@studiolab.sagemaker.aws`から次の順でメールが届きます。
 
 1. `Account request confirmed`
