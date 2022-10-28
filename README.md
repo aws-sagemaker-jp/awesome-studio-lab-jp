@@ -42,9 +42,13 @@ Studio LabでJupyterLabで動かせる教材はStudio Labで動かせますが�
 
 東京工業大学 情報理工学院で使用されている機械学習の教材です。Pythonの基本的な文法はもちろん、Numpy、Matplotlibといった機械学習に欠かせないライブラリの使い方についても解説されています。
 
+教材の詳細とStudio Labでの学び方は、[Python 早見帳が SageMaker Studio Lab からすぐに学べるようになりました](https://aws.amazon.com/jp/blogs/news/python-hayamicho-is-available-in-sagemaker-studio-lab/)をぜひ参照してください。
+
 #### [機械学習帳](https://chokkan.github.io/mlnote/index.html)
 
 Python早見帳と同じく、東京工業大学 情報理工学院で使用されている機械学習の教材です。教材内容の解説と確認問題の実装を[mlnote-note](https://github.com/icoxfog417/mlnote-note)で公開しています。
+
+教材の詳細とStudio Labでの学び方は、[機械学習帳が SageMaker Studio Lab からすぐに学べるようになりました](https://aws.amazon.com/jp/blogs/news/mlnote-sagemaker-studio-lab/)をぜひ参照してください。
 
 #### [ゼロからはじめるデータサイエンス入門（講談社）](https://github.com/taroyabuki/fromzero)
 
@@ -79,6 +83,8 @@ Amazonが社内の機械学習教育で使用している教材です。自然�
 #### [データサイエンス100本ノック](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
 
 小売のPOSデータを題材に、SQLを使用したデータの抽出方法を学べる教材です。SQL以外にも、Pythonの表計算ライブラリであるpandasやRによる実装方法も解説されています。[データサイエンス100本ノック構造化データ加工編ガイドブック](https://www.amazon.co.jp/dp/4802613563)として解説の書籍も発売されています。
+
+教材の詳細とStudio Labでの学び方は、[データサイエンス100本ノックがStudio Labからすぐに学べるようになりました](https://aws.amazon.com/jp/blogs/news/100knocks-preprocess-sagemaker-studio-lab/)をぜひ参照してください。
 
 #### 他教材
 
