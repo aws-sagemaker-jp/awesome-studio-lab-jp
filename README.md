@@ -96,7 +96,17 @@ Amazonが社内の機械学習教育で使用している教材です。自然�
 
 #### [ML Enablement Workshop](https://github.com/aws-samples/aws-ml-enablement-workshop)
 
-機械学習モデルがビジネス価値に貢献するよう開発を進める方法を学ぶことができるワークショップです。資料がすべてGitHubで公開されており、機械学習のビジネス貢献価値をどのように計測すればよいかなどが解説されています。
+プロダクトを開発するチームが、課題解決の選択肢として機械学習を選択できるようになることをゴールとしたワークショップです。プロダクトマネージャー向けの機械学習入門、ソフトウェア開発者向けハンズオン、プロダクトマネージャー/ソフトウェア開発者/データサイエンティストを交えて行う機械学習のユースケース発見アイデアソンの3つから構成されます。資料はすべてGitHubで公開されています。
+
+#### 金融業界での活用
+
+##### [ESG評価に対する自然言語処理の活用Workshop](https://github.com/aws-samples/aws-esg-evaluation-handson)
+
+企業の開示情報から、ESG評価に関わる記載を抽出するのに自然言語処理を活用する方法を学べるワークショップです。ESG評価の動向と、実際手を動かすハンズオンの2つから構成されています。MSCIやFTSE、RobecoSAMなど代表的な評価機関で採用されているチェックリストを持ちたESG評価手法をベースにしています。
+
+##### [決算短信セグメント情報のデータ抽出ハンズオン](https://github.com/JapanExchangeGroup/FinancialResultsHTML-DataExtraction)
+
+HTML化された決算短信からセグメント情報を抽出する方法が学べるハンズオンです。HTML化された決算短信は、[適時開示情報閲覧サービス](https://www.release.tdnet.info/inbs/I_main_00.html)や、[東証上場会社情報サービス](https://www.jpx.co.jp/listing/co-search/index.html)で公開されています。BeautifulSoupを用いたHTMLからの情報抽出を基礎から学ぶことができます。
 
 ## Studio LabからSageMakerへの移行
 
