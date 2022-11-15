@@ -53,22 +53,24 @@ Studio LabではCPU/GPUのいずれかでJupyter Notebookを実行すること�
 2. 「Start runtime」を押す。
    * ![start_runtime.png](images/usage/start_runtime.png)
    * 起動時に“There is no runtime available right now.”と表示された場合は何回かボタンを押してみてください。
-3. ランタイムが開始したら「Open project」を押す。
+3. 起動時に多要素認証を求められた場合、使用可能なデバイスで認証を行います。
+   * ![mfa-mobile.png](images/usage/mfa-mobile.png)
+   * 入力した電話番号に届いたコードを入力し認証してください。
+4. ランタイムが開始したら「Open project」を押す。
    * JupyterLab 環境が起動します。
 
 ## 4. 教材を開く
 
 「Open in Studio Lab」のボタンが付いた教材を開く手順は次の通りです。
 
-1. 教材の「Open Studio Lab」ボタンを押す。
+1. 教材の「Open Studio Lab」ボタンを押す(※↓のボタンは画像です)。
    * ![open_in_studio_lab.png](images/usage/open_in_studio_lab.png)
 2. 「Copy to Project」を押す。
    * ![copy_to_project.png](images/usage/copy_to_project.png)
 3. 「Clone Entire Repo」 か 「Copy Notebook Only」を押す。
-   * Clone Entire Repo は、Studio Labのプロジェクト内に教材をすべてコピーします。基本はこちらが好ましいです。
+   * Clone Entire Repo は、Studio Labのプロジェクト内に教材をすべてコピーします。Copy Notebook Onlyは開いているノートブックのみコピーします。
    * ![copy_from_github.png](images/usage/copy_from_github.png)
    * ![clone_git_repository.png](images/usage/clone_git_repository.png)
-   * Notebook Onlyの場合、Notebook単体がコピーされます。
 4. "Confirm you want to build..."が出たら「OK」を押す。
    * ![create_conda_environment.png](images/usage/create_conda_environment.png)
    * OKを押し忘れたら`environment.yml`を右クリックし「Build Conda Environment」を実行してください。
