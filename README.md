@@ -75,8 +75,6 @@ Amazonが社内の機械学習教育で使用している教材です。自然�
    * [Hugging Face Quick tour](https://huggingface.co/docs/transformers/quicktour)
 * 強化学習
    * [ゼロから作るDeep Learning ❹ 強化学習編](https://github.com/oreilly-japan/deep-learning-from-scratch-4)
-* MLOps
-   * [入門 機械学習パイプライン](https://github.com/oreilly-japan/building-ml-pipelines-ja)
 
 ### データエンジニアリング
 
@@ -85,6 +83,12 @@ Amazonが社内の機械学習教育で使用している教材です。自然�
 小売のPOSデータを題材に、SQLを使用したデータの抽出方法を学べる教材です。SQL以外にも、Pythonの表計算ライブラリであるpandasやRによる実装方法も解説されています。[データサイエンス100本ノック構造化データ加工編ガイドブック](https://www.amazon.co.jp/dp/4802613563)として解説の書籍も発売されています。
 
 教材の詳細とStudio Labでの学び方は、[データサイエンス100本ノックがStudio Labからすぐに学べるようになりました](https://aws.amazon.com/jp/blogs/news/100knocks-preprocess-sagemaker-studio-lab/)をぜひ参照してください。
+
+#### [入門 機械学習パイプライン](https://github.com/oreilly-japan/building-ml-pipelines-ja)
+
+本番環境で機械学習モデルを運用するために、学習データの取り込みからモデルのデプロイまで一連のプロセスを自動化するパイプラインを構築する方法を解説した書籍です(モデルの構築よりはデータに絡むため、こちらのセクションで紹介しています)。TensorFlow Extendedを使用してパイプラインを実装する方法、またクラウド環境にデプロイする方法が学べます。付録ではUberやSpotify、Netflixなど著名な企業のパイプラインの構築事例を参照することができます。
+
+教材の詳細とStudio Labでの学び方は、[「入門機械学習パイプライン」にSagemaker Studio Labで入門する](https://aws.amazon.com/jp/blogs/news/intro-to-mlops-sagemaker-studio-lab/)をぜひ参照してください。
 
 #### 他教材
 
