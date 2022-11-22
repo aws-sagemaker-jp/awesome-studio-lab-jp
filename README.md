@@ -90,11 +90,12 @@ Amazonが社内の機械学習教育で使用している教材です。自然�
 
 教材の詳細とStudio Labでの学び方は、[「入門機械学習パイプライン」にSagemaker Studio Labで入門する](https://aws.amazon.com/jp/blogs/news/intro-to-mlops-sagemaker-studio-lab/)をぜひ参照してください。
 
-#### 他教材
+#### データサイエンティストのための Git 入門 [Part1](https://aws.amazon.com/jp/builders-flash/202207/git-introduction-for-data-schientist/?awsf.filter-name=*all) / [Part2](https://aws.amazon.com/jp/builders-flash/202209/git-introduction-for-data-schientist-2/?awsf.filter-name=*all)
 
-* Git
-   * [データサイエンティストのための Git 入門](https://aws.amazon.com/jp/builders-flash/202207/git-introduction-for-data-schientist/?awsf.filter-name=*all)
-   * [データサイエンティストのための Git 入門 チーム開発編](https://aws.amazon.com/jp/builders-flash/202209/git-introduction-for-data-schientist-2/?awsf.filter-name=*all)
+開発したモデルをサービスへ組み込むときアプリケーション開発チームと協力することになりますが、協力するうえで知っておくべきチーム開発のためのGitの機能を重点的に紹介した記事です。Part1ではGitの基本的な使い方、Part2ではPull Requestの送り方などを中心に解説しています。[いちばんやさしいGit&GitHubの教本](https://www.amazon.co.jp/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%84%E3%81%95%E3%81%97%E3%81%84Git-GitHub%E3%81%AE%E6%95%99%E6%9C%AC-%E4%BA%BA%E6%B0%97%E8%AC%9B%E5%B8%AB%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86-%E5%85%B1%E6%9C%89%E5%85%A5%E9%96%80-%E3%80%8C%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%95%99%E6%9C%AC%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/dp/4295013617)著者による、アニメーション画像を使ったわかりやすい記事になっています。
+
+* Part1: [データサイエンティストのための Git 入門](https://aws.amazon.com/jp/builders-flash/202207/git-introduction-for-data-schientist/?awsf.filter-name=*all)
+* Part2: [データサイエンティストのための Git 入門 チーム開発編](https://aws.amazon.com/jp/builders-flash/202209/git-introduction-for-data-schientist-2/?awsf.filter-name=*all)
 
 ### ビジネス
 
