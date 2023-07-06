@@ -47,7 +47,7 @@ Studio Labへのログインは、[Studio Lab のランディングページ](ht
 
 ## 3. Jupyter Labを起動する
 
-Studio LabではCPU/GPUのいずれかでJupyter Notebookを実行することができます。CPUは12時間/セッション、GPUは4時間/セッションです。GPUは24時間以内8時間までという制約があります。
+Studio LabではCPU/GPUのいずれかでJupyter Notebookを実行することができます。CPUは4時間/セッション (1日8時間まで)、GPUは4時間/セッション (1日4時間まで)です。
 
 1. 「My Project」の「Select compute type」から CPUかGPU を選択する。
    * 通常のハンズオンはCPUで十分です。
