@@ -126,6 +126,7 @@ HTML化された決算短信からセグメント情報を抽出する方法が�
 
 Studio Labを採用頂いている授業や事例を紹介します。
 
+* [Juliaで学ぶ最適化と機械学習（2024）](https://matsui528.github.io/julia_opt_ml_2024/)
 * [4840-1054: Media Computing in Practice (Summer 2022)](https://media-comp.github.io/2022/)
 * [NLP若手の会 (YANS) 第17回シンポジウム ハッカソン](https://yans.anlp.jp/entry/yans2022hackathon)
 * [岐阜大学　2022実践データサイエンティスト育成事業](https://sites.google.com/db.info.gifu-u.ac.jp/ds2022/%E3%83%9B%E3%83%BC%E3%83%A0/aws%E8%AC%9B%E7%BF%92%E4%BC%9A%E9%AB%98%E5%BA%A6%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0?authuser=0)
